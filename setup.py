@@ -21,4 +21,7 @@ setuptools.setup(
 	],
 	url="https://github.com/truocphan/XSS-Checker",
 	packages=setuptools.find_packages(),
+	classifiers=[
+		"Programming Language :: Python :: 3"
+	],
 )
