@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
 	name="XSS-Checker",  
-	version="22.6.27.1",
+	version="22.6.28",
 	author="Truoc Phan",
 	scripts=["XSS-Checker.py"],
 	license="MIT",
