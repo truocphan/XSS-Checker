@@ -5,9 +5,9 @@ XSS-Checker is a tool used to Check / Validate for XSS vulnerabilities
 
 
 ```
-usage: XSS-Checker.py [-h] --url URL [--ext-url EXTRA_URL] [--threads THREADS] [--timeout TIMEOUT]
-                      [--browser {Chrome,Chromium,Brave,Firefox,Edge}] [--driver DRIVER]
-                      [--proxy PROXY] [--sig SIG] [--silent]
+usage: XSS-Checker [-h] --url URL [--ext-url EXTRA_URL] [--threads THREADS] [--timeout TIMEOUT]
+                   [--browser {Chrome,Chromium,Brave,Firefox,Edge}] [--driver DRIVER] [--proxy PROXY] [--sig SIG]
+                   [--silent]
 
 XSS-Checker is a tool used to Check / Validate for XSS vulnerabilities
 
