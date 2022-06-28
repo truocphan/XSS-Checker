@@ -1,7 +1,7 @@
 # XSS-Checker
 XSS-Checker is a tool used to Check / Validate for XSS vulnerabilities
 
-![image](https://user-images.githubusercontent.com/57470560/176231448-323a5319-4a03-4182-8dcd-3aa965042f94.png)
+![image](https://user-images.githubusercontent.com/57470560/176279707-7cdb56ae-0316-42d3-8693-e2b9ffbb0b1f.png)
 
 
 ```
