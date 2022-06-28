@@ -5,12 +5,12 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
 	name="XSS-Checker",  
-	version="22.6.28",
+	version="22.6.28.1",
 	author="Truoc Phan",
 	scripts=["XSS-Checker.py"],
 	license="MIT",
 	author_email="truocphan112017@gmail.com",
-	description="XSS-Checker is a tool used to Check / Validate for XSS vulnerabilities.",
+	description="XSS-Checker is a tool used to Check / Validate for XSS vulnerabilities",
 	long_description=long_description,
 	long_description_content_type="text/markdown",
 	install_requires=[
