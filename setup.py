@@ -8,7 +8,7 @@ with open('requirements.txt') as f:
 
 setuptools.setup(
 	name = "XSS-Checker",  
-	version = "22.7.2",
+	version = "22.7.6",
 	author = "Truoc Phan",
 	license = "MIT",
 	author_email = "truocphan112017@gmail.com",
